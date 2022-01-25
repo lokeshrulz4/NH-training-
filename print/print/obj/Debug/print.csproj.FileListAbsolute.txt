@@ -1,0 +1,7 @@
+D:\nadella\print\print\obj\Debug\print.csproj.SuggestedBindingRedirects.cache
+D:\nadella\print\print\obj\Debug\print.csproj.CoreCompileInputs.cache
+D:\nadella\print\print\bin\Debug\print.exe.config
+D:\nadella\print\print\bin\Debug\print.exe
+D:\nadella\print\print\bin\Debug\print.pdb
+D:\nadella\print\print\obj\Debug\print.exe
+D:\nadella\print\print\obj\Debug\print.pdb

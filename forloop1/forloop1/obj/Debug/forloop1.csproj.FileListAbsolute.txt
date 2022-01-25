@@ -1,0 +1,3 @@
+D:\nadella\forloop1\forloop1\obj\Debug\forloop1.csproj.AssemblyReference.cache
+D:\nadella\forloop1\forloop1\obj\Debug\forloop1.csproj.SuggestedBindingRedirects.cache
+D:\nadella\forloop1\forloop1\obj\Debug\forloop1.csproj.CoreCompileInputs.cache

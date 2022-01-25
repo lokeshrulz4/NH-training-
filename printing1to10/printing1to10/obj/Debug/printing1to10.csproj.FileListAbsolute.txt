@@ -1,0 +1,3 @@
+D:\nadella\printing1to10\printing1to10\obj\Debug\printing1to10.csproj.AssemblyReference.cache
+D:\nadella\printing1to10\printing1to10\obj\Debug\printing1to10.csproj.SuggestedBindingRedirects.cache
+D:\nadella\printing1to10\printing1to10\obj\Debug\printing1to10.csproj.CoreCompileInputs.cache

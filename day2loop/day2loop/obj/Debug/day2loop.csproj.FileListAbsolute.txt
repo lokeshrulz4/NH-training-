@@ -1,0 +1,8 @@
+D:\nadella\day2loop\day2loop\bin\Debug\day2loop.exe.config
+D:\nadella\day2loop\day2loop\bin\Debug\day2loop.exe
+D:\nadella\day2loop\day2loop\bin\Debug\day2loop.pdb
+D:\nadella\day2loop\day2loop\obj\Debug\day2loop.csproj.AssemblyReference.cache
+D:\nadella\day2loop\day2loop\obj\Debug\day2loop.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day2loop\day2loop\obj\Debug\day2loop.csproj.CoreCompileInputs.cache
+D:\nadella\day2loop\day2loop\obj\Debug\day2loop.exe
+D:\nadella\day2loop\day2loop\obj\Debug\day2loop.pdb
