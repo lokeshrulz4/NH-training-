@@ -1,0 +1,8 @@
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\bin\Debug\day 3 morning sum and average by array.exe.config
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\bin\Debug\day 3 morning sum and average by array.exe
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\bin\Debug\day 3 morning sum and average by array.pdb
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\obj\Debug\day 3 morning sum and average by array.csproj.AssemblyReference.cache
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\obj\Debug\day 3 morning sum and average by array.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\obj\Debug\day 3 morning sum and average by array.csproj.CoreCompileInputs.cache
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\obj\Debug\day 3 morning sum and average by array.exe
+D:\nadella\day 3 morning sum and average by array\day 3 morning sum and average by array\obj\Debug\day 3 morning sum and average by array.pdb

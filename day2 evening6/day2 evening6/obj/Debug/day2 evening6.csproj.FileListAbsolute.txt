@@ -1,0 +1,7 @@
+D:\nadella\day2 evening6\day2 evening6\bin\Debug\day2 evening6.exe.config
+D:\nadella\day2 evening6\day2 evening6\bin\Debug\day2 evening6.exe
+D:\nadella\day2 evening6\day2 evening6\bin\Debug\day2 evening6.pdb
+D:\nadella\day2 evening6\day2 evening6\obj\Debug\day2 evening6.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day2 evening6\day2 evening6\obj\Debug\day2 evening6.csproj.CoreCompileInputs.cache
+D:\nadella\day2 evening6\day2 evening6\obj\Debug\day2 evening6.exe
+D:\nadella\day2 evening6\day2 evening6\obj\Debug\day2 evening6.pdb

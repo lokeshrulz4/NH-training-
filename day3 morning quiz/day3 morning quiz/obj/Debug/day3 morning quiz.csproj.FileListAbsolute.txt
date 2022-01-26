@@ -1,0 +1,8 @@
+D:\nadella\day3 morning quiz\day3 morning quiz\bin\Debug\day3 morning quiz.exe.config
+D:\nadella\day3 morning quiz\day3 morning quiz\bin\Debug\day3 morning quiz.exe
+D:\nadella\day3 morning quiz\day3 morning quiz\bin\Debug\day3 morning quiz.pdb
+D:\nadella\day3 morning quiz\day3 morning quiz\obj\Debug\day3 morning quiz.csproj.AssemblyReference.cache
+D:\nadella\day3 morning quiz\day3 morning quiz\obj\Debug\day3 morning quiz.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day3 morning quiz\day3 morning quiz\obj\Debug\day3 morning quiz.csproj.CoreCompileInputs.cache
+D:\nadella\day3 morning quiz\day3 morning quiz\obj\Debug\day3 morning quiz.exe
+D:\nadella\day3 morning quiz\day3 morning quiz\obj\Debug\day3 morning quiz.pdb

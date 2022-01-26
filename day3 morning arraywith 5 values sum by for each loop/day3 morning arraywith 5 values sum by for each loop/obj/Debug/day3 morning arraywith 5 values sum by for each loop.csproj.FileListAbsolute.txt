@@ -1,0 +1,8 @@
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\bin\Debug\day3 morning arraywith 5 values sum by for each loop.exe.config
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\bin\Debug\day3 morning arraywith 5 values sum by for each loop.exe
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\bin\Debug\day3 morning arraywith 5 values sum by for each loop.pdb
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\obj\Debug\day3 morning arraywith 5 values sum by for each loop.csproj.AssemblyReference.cache
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\obj\Debug\day3 morning arraywith 5 values sum by for each loop.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\obj\Debug\day3 morning arraywith 5 values sum by for each loop.csproj.CoreCompileInputs.cache
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\obj\Debug\day3 morning arraywith 5 values sum by for each loop.exe
+D:\nadella\day3 morning arraywith 5 values sum by for each loop\day3 morning arraywith 5 values sum by for each loop\obj\Debug\day3 morning arraywith 5 values sum by for each loop.pdb

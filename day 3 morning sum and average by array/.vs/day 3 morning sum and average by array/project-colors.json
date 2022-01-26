@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6c40122-c3bc-413d-9dbc-8b442bb67ebe": {
+      "ProjectGuid": "d6c40122-c3bc-413d-9dbc-8b442bb67ebe",
+      "DisplayName": "day 3 morning sum and average by array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

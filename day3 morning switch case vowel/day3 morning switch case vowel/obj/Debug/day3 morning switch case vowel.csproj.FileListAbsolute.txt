@@ -1,0 +1,8 @@
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\bin\Debug\day3 morning switch case vowel.exe.config
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\bin\Debug\day3 morning switch case vowel.exe
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\bin\Debug\day3 morning switch case vowel.pdb
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\obj\Debug\day3 morning switch case vowel.csproj.AssemblyReference.cache
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\obj\Debug\day3 morning switch case vowel.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\obj\Debug\day3 morning switch case vowel.csproj.CoreCompileInputs.cache
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\obj\Debug\day3 morning switch case vowel.exe
+D:\nadella\day3 morning switch case vowel\day3 morning switch case vowel\obj\Debug\day3 morning switch case vowel.pdb
