@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\bin\Debug\day4 muplitication c.exe.config
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\bin\Debug\day4 muplitication c.exe
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\bin\Debug\day4 muplitication c.pdb
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\obj\Debug\day4 muplitication c.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\obj\Debug\day4 muplitication c.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\obj\Debug\day4 muplitication c.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\obj\Debug\day4 muplitication c.exe
+E:\day 4 assignmnet\day4 muplitication c\day4 muplitication c\obj\Debug\day4 muplitication c.pdb

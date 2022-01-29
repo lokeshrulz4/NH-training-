@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\bin\Debug\day 4 factorial.exe.config
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\bin\Debug\day 4 factorial.exe
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\bin\Debug\day 4 factorial.pdb
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\obj\Debug\day 4 factorial.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\obj\Debug\day 4 factorial.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\obj\Debug\day 4 factorial.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\obj\Debug\day 4 factorial.exe
+E:\day 4 assignmnet\day 4 factorial\day 4 factorial\obj\Debug\day 4 factorial.pdb

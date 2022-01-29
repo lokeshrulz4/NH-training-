@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\bin\Debug\day 4 prime or not assignment.exe.config
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\bin\Debug\day 4 prime or not assignment.exe
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\bin\Debug\day 4 prime or not assignment.pdb
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\obj\Debug\day 4 prime or not assignment.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\obj\Debug\day 4 prime or not assignment.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\obj\Debug\day 4 prime or not assignment.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\obj\Debug\day 4 prime or not assignment.exe
+E:\day 4 assignmnet\day 4 prime or not assignment\day 4 prime or not assignment\obj\Debug\day 4 prime or not assignment.pdb

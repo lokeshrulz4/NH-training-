@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\bin\Debug\DAY4 sum of n natural number.exe.config
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\bin\Debug\DAY4 sum of n natural number.exe
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\bin\Debug\DAY4 sum of n natural number.pdb
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\obj\Debug\DAY4 sum of n natural number.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\obj\Debug\DAY4 sum of n natural number.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\obj\Debug\DAY4 sum of n natural number.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\obj\Debug\DAY4 sum of n natural number.exe
+E:\day 4 assignmnet\DAY4 sum of n natural number\DAY4 sum of n natural number\obj\Debug\DAY4 sum of n natural number.pdb

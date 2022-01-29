@@ -1,0 +1,7 @@
+E:\day 4 assignmnet\day 4 armstrong number by function\day 4 armstrong number by function\bin\Debug\day 4 armstrong number by function.exe.config
+E:\day 4 assignmnet\day 4 armstrong number by function\day 4 armstrong number by function\bin\Debug\day 4 armstrong number by function.exe
+E:\day 4 assignmnet\day 4 armstrong number by function\day 4 armstrong number by function\bin\Debug\day 4 armstrong number by function.pdb
+E:\day 4 assignmnet\day 4 armstrong number by function\day 4 armstrong number by function\obj\Debug\day 4 armstrong number by function.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day 4 armstrong number by function\day 4 armstrong number by function\obj\Debug\day 4 armstrong number by function.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day 4 armstrong number by function\day 4 armstrong number by function\obj\Debug\day 4 armstrong number by function.exe
+E:\day 4 assignmnet\day 4 armstrong number by function\day 4 armstrong number by function\obj\Debug\day 4 armstrong number by function.pdb

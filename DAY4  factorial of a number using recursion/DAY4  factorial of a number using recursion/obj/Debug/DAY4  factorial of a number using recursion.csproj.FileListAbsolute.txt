@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\bin\Debug\DAY4  factorial of a number using recursion.exe.config
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\bin\Debug\DAY4  factorial of a number using recursion.exe
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\bin\Debug\DAY4  factorial of a number using recursion.pdb
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\obj\Debug\DAY4  factorial of a number using recursion.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\obj\Debug\DAY4  factorial of a number using recursion.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\obj\Debug\DAY4  factorial of a number using recursion.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\obj\Debug\DAY4  factorial of a number using recursion.exe
+E:\day 4 assignmnet\DAY4  factorial of a number using recursion\DAY4  factorial of a number using recursion\obj\Debug\DAY4  factorial of a number using recursion.pdb

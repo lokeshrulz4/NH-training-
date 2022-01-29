@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0ecc75c-fea8-4e68-8bb6-2632511f0d08": {
+      "ProjectGuid": "f0ecc75c-fea8-4e68-8bb6-2632511f0d08",
+      "DisplayName": "day 4 armstrong number by function",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

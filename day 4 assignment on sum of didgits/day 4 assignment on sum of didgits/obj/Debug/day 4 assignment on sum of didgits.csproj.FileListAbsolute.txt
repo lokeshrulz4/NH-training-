@@ -1,0 +1,7 @@
+E:\day 4 assignmnet\day 4 assignment on sum of didgits\day 4 assignment on sum of didgits\bin\Debug\day 4 assignment on sum of didgits.exe.config
+E:\day 4 assignmnet\day 4 assignment on sum of didgits\day 4 assignment on sum of didgits\bin\Debug\day 4 assignment on sum of didgits.exe
+E:\day 4 assignmnet\day 4 assignment on sum of didgits\day 4 assignment on sum of didgits\bin\Debug\day 4 assignment on sum of didgits.pdb
+E:\day 4 assignmnet\day 4 assignment on sum of didgits\day 4 assignment on sum of didgits\obj\Debug\day 4 assignment on sum of didgits.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day 4 assignment on sum of didgits\day 4 assignment on sum of didgits\obj\Debug\day 4 assignment on sum of didgits.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day 4 assignment on sum of didgits\day 4 assignment on sum of didgits\obj\Debug\day 4 assignment on sum of didgits.exe
+E:\day 4 assignmnet\day 4 assignment on sum of didgits\day 4 assignment on sum of didgits\obj\Debug\day 4 assignment on sum of didgits.pdb

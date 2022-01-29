@@ -1,0 +1,7 @@
+E:\day 4 assignmnet\day4 prime number by using function\day4 prime number by using function\bin\Debug\day4 prime number by using function.exe.config
+E:\day 4 assignmnet\day4 prime number by using function\day4 prime number by using function\bin\Debug\day4 prime number by using function.exe
+E:\day 4 assignmnet\day4 prime number by using function\day4 prime number by using function\bin\Debug\day4 prime number by using function.pdb
+E:\day 4 assignmnet\day4 prime number by using function\day4 prime number by using function\obj\Debug\day4 prime number by using function.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day4 prime number by using function\day4 prime number by using function\obj\Debug\day4 prime number by using function.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day4 prime number by using function\day4 prime number by using function\obj\Debug\day4 prime number by using function.exe
+E:\day 4 assignmnet\day4 prime number by using function\day4 prime number by using function\obj\Debug\day4 prime number by using function.pdb

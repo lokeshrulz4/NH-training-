@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\bin\Debug\day 4 assignmnent on palindrome.exe.config
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\bin\Debug\day 4 assignmnent on palindrome.exe
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\bin\Debug\day 4 assignmnent on palindrome.pdb
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\obj\Debug\day 4 assignmnent on palindrome.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\obj\Debug\day 4 assignmnent on palindrome.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\obj\Debug\day 4 assignmnent on palindrome.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\obj\Debug\day 4 assignmnent on palindrome.exe
+E:\day 4 assignmnet\day 4 assignmnent on palindrome\day 4 assignmnent on palindrome\obj\Debug\day 4 assignmnent on palindrome.pdb

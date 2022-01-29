@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fa0d7f8-7d9d-472f-a2d2-abe5118434fc": {
+      "ProjectGuid": "9fa0d7f8-7d9d-472f-a2d2-abe5118434fc",
+      "DisplayName": "day 4 swapping two numbers with third variable",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

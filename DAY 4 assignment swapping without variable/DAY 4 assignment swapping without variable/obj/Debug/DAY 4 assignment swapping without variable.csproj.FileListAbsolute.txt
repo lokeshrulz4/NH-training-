@@ -1,0 +1,7 @@
+E:\day 4 assignmnet\DAY 4 assignment swapping without variable\DAY 4 assignment swapping without variable\bin\Debug\DAY 4 assignment swapping without variable.exe.config
+E:\day 4 assignmnet\DAY 4 assignment swapping without variable\DAY 4 assignment swapping without variable\bin\Debug\DAY 4 assignment swapping without variable.exe
+E:\day 4 assignmnet\DAY 4 assignment swapping without variable\DAY 4 assignment swapping without variable\bin\Debug\DAY 4 assignment swapping without variable.pdb
+E:\day 4 assignmnet\DAY 4 assignment swapping without variable\DAY 4 assignment swapping without variable\obj\Debug\DAY 4 assignment swapping without variable.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\DAY 4 assignment swapping without variable\DAY 4 assignment swapping without variable\obj\Debug\DAY 4 assignment swapping without variable.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\DAY 4 assignment swapping without variable\DAY 4 assignment swapping without variable\obj\Debug\DAY 4 assignment swapping without variable.exe
+E:\day 4 assignmnet\DAY 4 assignment swapping without variable\DAY 4 assignment swapping without variable\obj\Debug\DAY 4 assignment swapping without variable.pdb

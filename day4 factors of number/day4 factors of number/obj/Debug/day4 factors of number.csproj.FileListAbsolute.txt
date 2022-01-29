@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\bin\Debug\day4 factors of number.exe.config
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\bin\Debug\day4 factors of number.exe
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\bin\Debug\day4 factors of number.pdb
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\obj\Debug\day4 factors of number.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\obj\Debug\day4 factors of number.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\obj\Debug\day4 factors of number.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\obj\Debug\day4 factors of number.exe
+E:\day 4 assignmnet\day4 factors of number\day4 factors of number\obj\Debug\day4 factors of number.pdb

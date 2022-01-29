@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9b659b0-5b48-4521-9c53-60db970ea641": {
+      "ProjectGuid": "e9b659b0-5b48-4521-9c53-60db970ea641",
+      "DisplayName": "day 4 factorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

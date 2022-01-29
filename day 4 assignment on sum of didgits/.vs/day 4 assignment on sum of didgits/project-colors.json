@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2a42072-4fd5-4b29-8c81-1d578b1ced07": {
+      "ProjectGuid": "b2a42072-4fd5-4b29-8c81-1d578b1ced07",
+      "DisplayName": "day 4 assignment on sum of didgits",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

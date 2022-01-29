@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e19ba49a-a9d2-48fc-8bc9-24425726ddf0": {
+      "ProjectGuid": "e19ba49a-a9d2-48fc-8bc9-24425726ddf0",
+      "DisplayName": "day4 prime numbers in given range",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
