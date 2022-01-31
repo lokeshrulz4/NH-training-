@@ -1,0 +1,8 @@
+D:\nadella\day3=3 list.int\day3=3 list.int\bin\Debug\day3_3_list.@int.exe.config
+D:\nadella\day3=3 list.int\day3=3 list.int\bin\Debug\day3_3_list.@int.exe
+D:\nadella\day3=3 list.int\day3=3 list.int\bin\Debug\day3_3_list.@int.pdb
+D:\nadella\day3=3 list.int\day3=3 list.int\obj\Debug\day3=3 list.int.csproj.AssemblyReference.cache
+D:\nadella\day3=3 list.int\day3=3 list.int\obj\Debug\day3=3 list.int.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day3=3 list.int\day3=3 list.int\obj\Debug\day3=3 list.int.csproj.CoreCompileInputs.cache
+D:\nadella\day3=3 list.int\day3=3 list.int\obj\Debug\day3_3_list.@int.exe
+D:\nadella\day3=3 list.int\day3=3 list.int\obj\Debug\day3_3_list.@int.pdb

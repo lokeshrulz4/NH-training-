@@ -1,0 +1,8 @@
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\bin\Debug\day6 assignment on loop,forloop,lambda.exe.config
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\bin\Debug\day6 assignment on loop,forloop,lambda.exe
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\bin\Debug\day6 assignment on loop,forloop,lambda.pdb
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\obj\Debug\day6 assignment on loop,forloop,lambda.csproj.AssemblyReference.cache
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\obj\Debug\day6 assignment on loop,forloop,lambda.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\obj\Debug\day6 assignment on loop,forloop,lambda.csproj.CoreCompileInputs.cache
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\obj\Debug\day6 assignment on loop,forloop,lambda.exe
+D:\nadella\day6 assignment on loop,forloop,lambda\day6 assignment on loop,forloop,lambda\obj\Debug\day6 assignment on loop,forloop,lambda.pdb

@@ -1,0 +1,8 @@
+D:\nadella\day6 morning list.int\day6 morning list.int\bin\Debug\day6_morning_list.@int.exe.config
+D:\nadella\day6 morning list.int\day6 morning list.int\bin\Debug\day6_morning_list.@int.exe
+D:\nadella\day6 morning list.int\day6 morning list.int\bin\Debug\day6_morning_list.@int.pdb
+D:\nadella\day6 morning list.int\day6 morning list.int\obj\Debug\day6 morning list.int.csproj.AssemblyReference.cache
+D:\nadella\day6 morning list.int\day6 morning list.int\obj\Debug\day6 morning list.int.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day6 morning list.int\day6 morning list.int\obj\Debug\day6 morning list.int.csproj.CoreCompileInputs.cache
+D:\nadella\day6 morning list.int\day6 morning list.int\obj\Debug\day6_morning_list.@int.exe
+D:\nadella\day6 morning list.int\day6 morning list.int\obj\Debug\day6_morning_list.@int.pdb

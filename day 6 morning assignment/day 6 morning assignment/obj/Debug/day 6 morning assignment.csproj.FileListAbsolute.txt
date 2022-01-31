@@ -1,0 +1,8 @@
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\bin\Debug\day 6 morning assignment.exe.config
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\bin\Debug\day 6 morning assignment.exe
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\bin\Debug\day 6 morning assignment.pdb
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.csproj.AssemblyReference.cache
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.csproj.SuggestedBindingRedirects.cache
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.csproj.CoreCompileInputs.cache
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.exe
+E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.pdb
