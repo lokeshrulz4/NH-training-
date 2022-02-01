@@ -6,3 +6,11 @@ E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\
 E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.csproj.CoreCompileInputs.cache
 E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.exe
 E:\day 4 assignmnet\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.pdb
+D:\nadella\day 6 morning assignment\day 6 morning assignment\bin\Debug\day 6 morning assignment.exe.config
+D:\nadella\day 6 morning assignment\day 6 morning assignment\bin\Debug\day 6 morning assignment.exe
+D:\nadella\day 6 morning assignment\day 6 morning assignment\bin\Debug\day 6 morning assignment.pdb
+D:\nadella\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.csproj.AssemblyReference.cache
+D:\nadella\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.csproj.CoreCompileInputs.cache
+D:\nadella\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.exe
+D:\nadella\day 6 morning assignment\day 6 morning assignment\obj\Debug\day 6 morning assignment.pdb

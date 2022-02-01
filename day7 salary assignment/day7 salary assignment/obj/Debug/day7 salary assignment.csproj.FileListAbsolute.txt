@@ -1,0 +1,7 @@
+D:\nadella\day7 salary assignment\day7 salary assignment\bin\Debug\day7 salary assignment.exe.config
+D:\nadella\day7 salary assignment\day7 salary assignment\bin\Debug\day7 salary assignment.exe
+D:\nadella\day7 salary assignment\day7 salary assignment\bin\Debug\day7 salary assignment.pdb
+D:\nadella\day7 salary assignment\day7 salary assignment\obj\Debug\day7 salary assignment.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day7 salary assignment\day7 salary assignment\obj\Debug\day7 salary assignment.csproj.CoreCompileInputs.cache
+D:\nadella\day7 salary assignment\day7 salary assignment\obj\Debug\day7 salary assignment.exe
+D:\nadella\day7 salary assignment\day7 salary assignment\obj\Debug\day7 salary assignment.pdb

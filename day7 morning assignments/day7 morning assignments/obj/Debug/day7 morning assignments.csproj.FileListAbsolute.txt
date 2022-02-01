@@ -1,0 +1,8 @@
+D:\nadella\day7 morning assignments\day7 morning assignments\bin\Debug\day7 morning assignments.exe.config
+D:\nadella\day7 morning assignments\day7 morning assignments\bin\Debug\day7 morning assignments.exe
+D:\nadella\day7 morning assignments\day7 morning assignments\bin\Debug\day7 morning assignments.pdb
+D:\nadella\day7 morning assignments\day7 morning assignments\obj\Debug\day7 morning assignments.csproj.AssemblyReference.cache
+D:\nadella\day7 morning assignments\day7 morning assignments\obj\Debug\day7 morning assignments.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day7 morning assignments\day7 morning assignments\obj\Debug\day7 morning assignments.csproj.CoreCompileInputs.cache
+D:\nadella\day7 morning assignments\day7 morning assignments\obj\Debug\day7 morning assignments.exe
+D:\nadella\day7 morning assignments\day7 morning assignments\obj\Debug\day7 morning assignments.pdb
