@@ -1,0 +1,7 @@
+D:\nadella\day9 project3\day9 project3\bin\Debug\day9 project3.exe.config
+D:\nadella\day9 project3\day9 project3\bin\Debug\day9 project3.exe
+D:\nadella\day9 project3\day9 project3\bin\Debug\day9 project3.pdb
+D:\nadella\day9 project3\day9 project3\obj\Debug\day9 project3.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day9 project3\day9 project3\obj\Debug\day9 project3.csproj.CoreCompileInputs.cache
+D:\nadella\day9 project3\day9 project3\obj\Debug\day9 project3.exe
+D:\nadella\day9 project3\day9 project3\obj\Debug\day9 project3.pdb
