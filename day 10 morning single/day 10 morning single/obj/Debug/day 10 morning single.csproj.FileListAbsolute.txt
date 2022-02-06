@@ -1,0 +1,8 @@
+D:\nadella\day 10 morning single\day 10 morning single\bin\Debug\day 10 morning single.exe.config
+D:\nadella\day 10 morning single\day 10 morning single\bin\Debug\day 10 morning single.exe
+D:\nadella\day 10 morning single\day 10 morning single\bin\Debug\day 10 morning single.pdb
+D:\nadella\day 10 morning single\day 10 morning single\obj\Debug\day 10 morning single.csproj.AssemblyReference.cache
+D:\nadella\day 10 morning single\day 10 morning single\obj\Debug\day 10 morning single.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 10 morning single\day 10 morning single\obj\Debug\day 10 morning single.csproj.CoreCompileInputs.cache
+D:\nadella\day 10 morning single\day 10 morning single\obj\Debug\day 10 morning single.exe
+D:\nadella\day 10 morning single\day 10 morning single\obj\Debug\day 10 morning single.pdb

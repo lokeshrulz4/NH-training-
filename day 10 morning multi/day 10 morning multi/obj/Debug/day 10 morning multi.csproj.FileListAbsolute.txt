@@ -1,0 +1,7 @@
+D:\nadella\day 10 morning multi\day 10 morning multi\bin\Debug\day 10 morning multi.exe.config
+D:\nadella\day 10 morning multi\day 10 morning multi\bin\Debug\day 10 morning multi.exe
+D:\nadella\day 10 morning multi\day 10 morning multi\bin\Debug\day 10 morning multi.pdb
+D:\nadella\day 10 morning multi\day 10 morning multi\obj\Debug\day 10 morning multi.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 10 morning multi\day 10 morning multi\obj\Debug\day 10 morning multi.csproj.CoreCompileInputs.cache
+D:\nadella\day 10 morning multi\day 10 morning multi\obj\Debug\day 10 morning multi.exe
+D:\nadella\day 10 morning multi\day 10 morning multi\obj\Debug\day 10 morning multi.pdb

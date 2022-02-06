@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day 10 morning multi", "day 10 morning multi\day 10 morning multi.csproj", "{6F067AC3-2269-45D7-B41B-AAF35754DE4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F067AC3-2269-45D7-B41B-AAF35754DE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F067AC3-2269-45D7-B41B-AAF35754DE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F067AC3-2269-45D7-B41B-AAF35754DE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F067AC3-2269-45D7-B41B-AAF35754DE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A556789-253C-40BA-8AF1-3620C4FA6867}
+	EndGlobalSection
+EndGlobal

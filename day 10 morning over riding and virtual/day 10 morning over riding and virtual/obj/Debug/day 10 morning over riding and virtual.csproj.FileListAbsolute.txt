@@ -1,0 +1,7 @@
+D:\nadella\day 10 morning over riding and virtual\day 10 morning over riding and virtual\bin\Debug\day 10 morning over riding and virtual.exe.config
+D:\nadella\day 10 morning over riding and virtual\day 10 morning over riding and virtual\bin\Debug\day 10 morning over riding and virtual.exe
+D:\nadella\day 10 morning over riding and virtual\day 10 morning over riding and virtual\bin\Debug\day 10 morning over riding and virtual.pdb
+D:\nadella\day 10 morning over riding and virtual\day 10 morning over riding and virtual\obj\Debug\day 10 morning over riding and virtual.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 10 morning over riding and virtual\day 10 morning over riding and virtual\obj\Debug\day 10 morning over riding and virtual.csproj.CoreCompileInputs.cache
+D:\nadella\day 10 morning over riding and virtual\day 10 morning over riding and virtual\obj\Debug\day 10 morning over riding and virtual.exe
+D:\nadella\day 10 morning over riding and virtual\day 10 morning over riding and virtual\obj\Debug\day 10 morning over riding and virtual.pdb
