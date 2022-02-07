@@ -1,0 +1,7 @@
+D:\nadella\day 11 assignments mathematics\day 11 assignments mathematics\bin\Debug\day 11 assignments mathematics.exe.config
+D:\nadella\day 11 assignments mathematics\day 11 assignments mathematics\bin\Debug\day 11 assignments mathematics.exe
+D:\nadella\day 11 assignments mathematics\day 11 assignments mathematics\bin\Debug\day 11 assignments mathematics.pdb
+D:\nadella\day 11 assignments mathematics\day 11 assignments mathematics\obj\Debug\day 11 assignments mathematics.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 11 assignments mathematics\day 11 assignments mathematics\obj\Debug\day 11 assignments mathematics.csproj.CoreCompileInputs.cache
+D:\nadella\day 11 assignments mathematics\day 11 assignments mathematics\obj\Debug\day 11 assignments mathematics.exe
+D:\nadella\day 11 assignments mathematics\day 11 assignments mathematics\obj\Debug\day 11 assignments mathematics.pdb
