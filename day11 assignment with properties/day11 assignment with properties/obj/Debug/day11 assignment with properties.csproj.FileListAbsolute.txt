@@ -1,0 +1,7 @@
+D:\nadella\day11 assignment with properties\day11 assignment with properties\bin\Debug\day11 assignment with properties.exe.config
+D:\nadella\day11 assignment with properties\day11 assignment with properties\bin\Debug\day11 assignment with properties.exe
+D:\nadella\day11 assignment with properties\day11 assignment with properties\bin\Debug\day11 assignment with properties.pdb
+D:\nadella\day11 assignment with properties\day11 assignment with properties\obj\Debug\day11 assignment with properties.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day11 assignment with properties\day11 assignment with properties\obj\Debug\day11 assignment with properties.csproj.CoreCompileInputs.cache
+D:\nadella\day11 assignment with properties\day11 assignment with properties\obj\Debug\day11 assignment with properties.exe
+D:\nadella\day11 assignment with properties\day11 assignment with properties\obj\Debug\day11 assignment with properties.pdb

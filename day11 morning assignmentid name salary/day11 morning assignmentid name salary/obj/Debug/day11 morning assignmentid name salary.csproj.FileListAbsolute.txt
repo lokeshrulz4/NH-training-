@@ -1,0 +1,8 @@
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\bin\Debug\day11 morning assignmentid name salary.exe.config
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\bin\Debug\day11 morning assignmentid name salary.exe
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\bin\Debug\day11 morning assignmentid name salary.pdb
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\obj\Debug\day11 morning assignmentid name salary.csproj.AssemblyReference.cache
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\obj\Debug\day11 morning assignmentid name salary.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\obj\Debug\day11 morning assignmentid name salary.csproj.CoreCompileInputs.cache
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\obj\Debug\day11 morning assignmentid name salary.exe
+D:\nadella\day11 morning assignmentid name salary\day11 morning assignmentid name salary\obj\Debug\day11 morning assignmentid name salary.pdb

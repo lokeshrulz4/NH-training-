@@ -1,0 +1,8 @@
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\bin\Debug\day11 morning assignment ishape.exe.config
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\bin\Debug\day11 morning assignment ishape.exe
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\bin\Debug\day11 morning assignment ishape.pdb
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\obj\Debug\day11 morning assignment ishape.csproj.AssemblyReference.cache
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\obj\Debug\day11 morning assignment ishape.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\obj\Debug\day11 morning assignment ishape.csproj.CoreCompileInputs.cache
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\obj\Debug\day11 morning assignment ishape.exe
+D:\nadella\day11 morning assignment ishape\day11 morning assignment ishape\obj\Debug\day11 morning assignment ishape.pdb
