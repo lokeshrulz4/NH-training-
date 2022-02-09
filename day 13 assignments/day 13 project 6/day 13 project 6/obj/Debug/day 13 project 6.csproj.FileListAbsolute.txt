@@ -1,0 +1,7 @@
+D:\nadella\day 13 assignments\day 13 project 6\day 13 project 6\bin\Debug\day 13 project 6.exe.config
+D:\nadella\day 13 assignments\day 13 project 6\day 13 project 6\bin\Debug\day 13 project 6.exe
+D:\nadella\day 13 assignments\day 13 project 6\day 13 project 6\bin\Debug\day 13 project 6.pdb
+D:\nadella\day 13 assignments\day 13 project 6\day 13 project 6\obj\Debug\day 13 project 6.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 13 assignments\day 13 project 6\day 13 project 6\obj\Debug\day 13 project 6.csproj.CoreCompileInputs.cache
+D:\nadella\day 13 assignments\day 13 project 6\day 13 project 6\obj\Debug\day 13 project 6.exe
+D:\nadella\day 13 assignments\day 13 project 6\day 13 project 6\obj\Debug\day 13 project 6.pdb
