@@ -1,0 +1,8 @@
+D:\nadella\day 14 assignments\day14 project\day14 project\bin\Debug\day14 project.exe.config
+D:\nadella\day 14 assignments\day14 project\day14 project\bin\Debug\day14 project.exe
+D:\nadella\day 14 assignments\day14 project\day14 project\bin\Debug\day14 project.pdb
+D:\nadella\day 14 assignments\day14 project\day14 project\obj\Debug\day14 project.csproj.AssemblyReference.cache
+D:\nadella\day 14 assignments\day14 project\day14 project\obj\Debug\day14 project.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 14 assignments\day14 project\day14 project\obj\Debug\day14 project.csproj.CoreCompileInputs.cache
+D:\nadella\day 14 assignments\day14 project\day14 project\obj\Debug\day14 project.exe
+D:\nadella\day 14 assignments\day14 project\day14 project\obj\Debug\day14 project.pdb
