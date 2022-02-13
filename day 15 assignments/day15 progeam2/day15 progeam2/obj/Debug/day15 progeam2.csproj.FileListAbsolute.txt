@@ -1,0 +1,7 @@
+D:\nadella\day 15 assignments\day15 progeam2\day15 progeam2\bin\Debug\day15 progeam2.exe.config
+D:\nadella\day 15 assignments\day15 progeam2\day15 progeam2\bin\Debug\day15 progeam2.exe
+D:\nadella\day 15 assignments\day15 progeam2\day15 progeam2\bin\Debug\day15 progeam2.pdb
+D:\nadella\day 15 assignments\day15 progeam2\day15 progeam2\obj\Debug\day15 progeam2.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 15 assignments\day15 progeam2\day15 progeam2\obj\Debug\day15 progeam2.csproj.CoreCompileInputs.cache
+D:\nadella\day 15 assignments\day15 progeam2\day15 progeam2\obj\Debug\day15 progeam2.exe
+D:\nadella\day 15 assignments\day15 progeam2\day15 progeam2\obj\Debug\day15 progeam2.pdb

@@ -1,0 +1,8 @@
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\bin\Debug\day 15 program1.exe.config
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\bin\Debug\day 15 program1.exe
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\bin\Debug\day 15 program1.pdb
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\obj\Debug\day 15 program1.csproj.AssemblyReference.cache
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\obj\Debug\day 15 program1.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\obj\Debug\day 15 program1.csproj.CoreCompileInputs.cache
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\obj\Debug\day 15 program1.exe
+D:\nadella\day 15 assignments\day 15 program1\day 15 program1\obj\Debug\day 15 program1.pdb
