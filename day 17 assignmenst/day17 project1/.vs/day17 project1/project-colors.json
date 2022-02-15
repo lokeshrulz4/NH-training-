@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "726ae565-9f2a-4f6c-aa94-562f06979bd2": {
+      "ProjectGuid": "726ae565-9f2a-4f6c-aa94-562f06979bd2",
+      "DisplayName": "day17 project1",
+      "ColorIndex": 0
+    },
+    "3a13d2c4-8ca0-48fb-9783-3bfc49852afc": {
+      "ProjectGuid": "3a13d2c4-8ca0-48fb-9783-3bfc49852afc",
+      "DisplayName": "lokeshlibrary",
+      "ColorIndex": 1
+    },
+    "c4981fa1-193d-43a1-80f0-921ec9632fc8": {
+      "ProjectGuid": "c4981fa1-193d-43a1-80f0-921ec9632fc8",
+      "DisplayName": "publiclibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

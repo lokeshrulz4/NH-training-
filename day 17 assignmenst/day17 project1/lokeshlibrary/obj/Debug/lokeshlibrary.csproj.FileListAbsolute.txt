@@ -1,0 +1,5 @@
+D:\nadella\day 17 assignmenst\day17 project1\lokeshlibrary\bin\Debug\lokeshlibrary.dll
+D:\nadella\day 17 assignmenst\day17 project1\lokeshlibrary\bin\Debug\lokeshlibrary.pdb
+D:\nadella\day 17 assignmenst\day17 project1\lokeshlibrary\obj\Debug\lokeshlibrary.csproj.CoreCompileInputs.cache
+D:\nadella\day 17 assignmenst\day17 project1\lokeshlibrary\obj\Debug\lokeshlibrary.dll
+D:\nadella\day 17 assignmenst\day17 project1\lokeshlibrary\obj\Debug\lokeshlibrary.pdb
