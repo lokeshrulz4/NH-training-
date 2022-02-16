@@ -1,0 +1,6 @@
+D:\nadella\day 18 assignments\day18 project1\mathematicslibrary\bin\Debug\mathematicslibrary.dll
+D:\nadella\day 18 assignments\day18 project1\mathematicslibrary\bin\Debug\mathematicslibrary.pdb
+D:\nadella\day 18 assignments\day18 project1\mathematicslibrary\obj\Debug\mathematicslibrary.csproj.AssemblyReference.cache
+D:\nadella\day 18 assignments\day18 project1\mathematicslibrary\obj\Debug\mathematicslibrary.csproj.CoreCompileInputs.cache
+D:\nadella\day 18 assignments\day18 project1\mathematicslibrary\obj\Debug\mathematicslibrary.dll
+D:\nadella\day 18 assignments\day18 project1\mathematicslibrary\obj\Debug\mathematicslibrary.pdb

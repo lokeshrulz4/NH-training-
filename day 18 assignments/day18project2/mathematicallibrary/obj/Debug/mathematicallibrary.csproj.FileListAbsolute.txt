@@ -1,0 +1,5 @@
+D:\nadella\day 18 assignments\day18project2\mathematicallibrary\bin\Debug\mathematicallibrary.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibrary\bin\Debug\mathematicallibrary.pdb
+D:\nadella\day 18 assignments\day18project2\mathematicallibrary\obj\Debug\mathematicallibrary.csproj.CoreCompileInputs.cache
+D:\nadella\day 18 assignments\day18project2\mathematicallibrary\obj\Debug\mathematicallibrary.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibrary\obj\Debug\mathematicallibrary.pdb

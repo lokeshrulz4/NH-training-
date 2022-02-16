@@ -1,0 +1,11 @@
+D:\nadella\day 18 assignments\day18 project1\day18 project1\bin\Debug\day18 project1.exe.config
+D:\nadella\day 18 assignments\day18 project1\day18 project1\bin\Debug\day18 project1.exe
+D:\nadella\day 18 assignments\day18 project1\day18 project1\bin\Debug\day18 project1.pdb
+D:\nadella\day 18 assignments\day18 project1\day18 project1\bin\Debug\mathematicslibrary.dll
+D:\nadella\day 18 assignments\day18 project1\day18 project1\bin\Debug\mathematicslibrary.pdb
+D:\nadella\day 18 assignments\day18 project1\day18 project1\obj\Debug\day18 project1.csproj.AssemblyReference.cache
+D:\nadella\day 18 assignments\day18 project1\day18 project1\obj\Debug\day18 project1.csproj.SuggestedBindingRedirects.cache
+D:\nadella\day 18 assignments\day18 project1\day18 project1\obj\Debug\day18 project1.csproj.CoreCompileInputs.cache
+D:\nadella\day 18 assignments\day18 project1\day18 project1\obj\Debug\day18 project1.csproj.CopyComplete
+D:\nadella\day 18 assignments\day18 project1\day18 project1\obj\Debug\day18 project1.exe
+D:\nadella\day 18 assignments\day18 project1\day18 project1\obj\Debug\day18 project1.pdb

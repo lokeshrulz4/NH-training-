@@ -1,0 +1,17 @@
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\obj\Debug\mathematicallibraryTests.csproj.AssemblyReference.cache
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\obj\Debug\mathematicallibraryTests.csproj.CoreCompileInputs.cache
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\mathematicallibraryTests.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\mathematicallibraryTests.pdb
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\mathematicallibrary.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\mathematicallibrary.pdb
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\obj\Debug\mathematicallibraryTests.csproj.CopyComplete
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\obj\Debug\mathematicallibraryTests.dll
+D:\nadella\day 18 assignments\day18project2\mathematicallibraryTests\obj\Debug\mathematicallibraryTests.pdb
