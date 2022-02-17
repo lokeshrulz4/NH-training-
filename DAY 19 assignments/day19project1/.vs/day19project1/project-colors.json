@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba4f1d75-f7a0-42cb-b898-bc6c924fe238": {
+      "ProjectGuid": "ba4f1d75-f7a0-42cb-b898-bc6c924fe238",
+      "DisplayName": "day19project1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
