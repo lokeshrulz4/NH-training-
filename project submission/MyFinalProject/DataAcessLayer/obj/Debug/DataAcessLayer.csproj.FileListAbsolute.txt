@@ -1,0 +1,6 @@
+D:\nadella\project submission\MyFinalProject\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+D:\nadella\project submission\MyFinalProject\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+D:\nadella\project submission\MyFinalProject\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
+D:\nadella\project submission\MyFinalProject\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+D:\nadella\project submission\MyFinalProject\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+D:\nadella\project submission\MyFinalProject\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

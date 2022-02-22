@@ -1,0 +1,13 @@
+D:\nadella\project submission\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.exe.config
+D:\nadella\project submission\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.exe
+D:\nadella\project submission\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.pdb
+D:\nadella\project submission\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+D:\nadella\project submission\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+D:\nadella\project submission\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+D:\nadella\project submission\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.exe
+D:\nadella\project submission\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.pdb
+D:\nadella\project submission\MyFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.dll
+D:\nadella\project submission\MyFinalProject\MyClientApp\bin\Debug\DataAcessLayer.dll
+D:\nadella\project submission\MyFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.pdb
+D:\nadella\project submission\MyFinalProject\MyClientApp\bin\Debug\DataAcessLayer.pdb
+D:\nadella\project submission\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete

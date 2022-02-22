@@ -1,0 +1,9 @@
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\bin\Debug\DataAcessLayer.dll
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\bin\Debug\DataAcessLayer.pdb
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+D:\nadella\project submission\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb
